@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Merriweather:ital@1&family=Sacramento&display=swap');
+body{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 200;
+    background-color: #eaf6f6;
+    margin: 0;
+    text-align: center;
+    color: rgb(26, 26, 26);
+}
+img{
+    max-width:100% ;
+    max-height: 100%;
+}
+.container-top{
+    padding-top: 20px;
+    background-color: #b1f0f4;
+    max-width: 100%;
+    padding-bottom: 20px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%; 
+    color: #66bfbf;
+    margin-top:0 ;
+   padding-top: 30px;
+   display: inline;
+   margin:  auto  auto;
+}
+h2{
+    display: block;
+    color: #66bfbf;
+    padding-bottom: 10px;
+}
+.container-middle{
+    padding-top: 60px;
+    max-width:100% ;
+    background-color: black;
+    margin-top: 1px;
+    
+}
+.head2{
+    color: rgb(111, 213, 192);
+    margin-top: 0;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.elements1{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    position: relative;
+   
+    margin: 0 auto;
+}
+.elements2{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    
+    margin: 0 auto;
+}
+.btn { 
+    
+    max-width: 100%;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11d490, #11409e);
+    background-image: -moz-linear-gradient(top, #d411bd, #119e39);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999E);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: 'Cormorant Garamond';
+    color: #ffffff;
+    font-size: 23px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #4098db);
+    background-image: -moz-linear-gradient(top, #30E3CB, #4098db);
+    background-image: -ms-linear-gradient(top, #30E3CB, #4098db);
+    background-image: -o-linear-gradient(top, #30E3CB, #4098db);
+    background-image: linear-gradient(to bottom, #30E3CB, #4098db);
+    text-decoration: none;
+  }
+  h3{
+    color: #11999E;
+}
+.btn-container{
+    
+    max-width: 100%;
+}
+  .middle-container{
+    margin: 100px 0;
+    margin-bottom: 0;
+}
+  .skill-row{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px  0 20px;
+}
+hr{
+    border: dotted #706f6f 6px;
+    border-bottom: none ;
+    width: 5%;
+   margin: 100px auto;
+}
+.profile{
+    width: 60%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+a{
+    color: rgb(5, 5, 5);
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 1000;
+    text-decoration: none;
+    margin: 10px 20px;
+    padding: 20px 0px;
+}
+a:hover{
+    color:rgb(234, 239, 234) ;
+}
+#copyright{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+
+
